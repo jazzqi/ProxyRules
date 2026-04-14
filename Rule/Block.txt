@@ -558,6 +558,7 @@ DOMAIN-SUFFIX,urlaw.cn
 DOMAIN-SUFFIX,urlet.cn
 DOMAIN-SUFFIX,usekahuna.com
 DOMAIN-SUFFIX,utarget.ru
+DOMAIN-SUFFIX,ut.hzshudian.com
 DOMAIN-SUFFIX,vads.net.vn
 DOMAIN-SUFFIX,vads.vn
 DOMAIN-SUFFIX,vamaker.com
@@ -690,6 +691,7 @@ DOMAIN,api.adnet.mob.com
 DOMAIN,api-ad.kajicam.com
 DOMAIN,appnext.hs.llnwd.net
 DOMAIN,appnext-a.akamaihd.net
+DOMAIN,app-analytics-services.com
 DOMAIN,business-cdn.shouji.sogou.com
 DOMAIN,cf-ads.pinger.com
 DOMAIN,dsp.fcbox.com

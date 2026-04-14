@@ -1365,6 +1365,7 @@ DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,freebuf.com
 DOMAIN-SUFFIX,fresh-ideas.cc
 DOMAIN-SUFFIX,freshhema.com
+DOMAIN-SUFFIX,freshippo.com
 DOMAIN-SUFFIX,frontjs.com
 DOMAIN-SUFFIX,frontwize.com
 DOMAIN-SUFFIX,fsfund.com
@@ -1448,6 +1449,7 @@ DOMAIN-SUFFIX,gitcode.net
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globrand.com
 DOMAIN-SUFFIX,gm86.com
 DOMAIN-SUFFIX,gmz88.com
@@ -2317,6 +2319,7 @@ DOMAIN-SUFFIX,miaostreet.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,midasbuy.com
+DOMAIN-SUFFIX,midea.com
 DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,irsnp.com
 DOMAIN-SUFFIX,mdcdn.cn
