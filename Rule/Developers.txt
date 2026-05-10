@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN,ws.support-chat.cloudflare.com
 DOMAIN,gates.cloudflare.com
 DOMAIN,sparrow.cloudflare.com
+
+# > Python
+DOMAIN-SUFFIX,pythonhosted.org
