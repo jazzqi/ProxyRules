@@ -95,6 +95,10 @@ DOMAIN,mistral.ai
 # > IBM WatsonX
 DOMAIN-SUFFIX,ml.cloud.ibm.com
 
+# > together.ai
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,together.xyz
+
 # > Cerebras
 DOMAIN-SUFFIX,cerebras.ai
 
