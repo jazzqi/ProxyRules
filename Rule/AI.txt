@@ -82,3 +82,18 @@ DOMAIN,ai-gateway.vercel.sh
 
 #> Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
+
+#> Mistral AI
+DOMAIN,mistral.ai
+
+#> Nvidia NIM
+DOMAIN,integrate.api.nvidia.com
+
+#> Cerebras
+DOMAIN-SUFFIX,cerebras.ai
+
+#> Groq
+DOMAIN-SUFFIX,groq.com
+
+#> SambaNova
+DOMAIN-SUFFIX,sambanova.ai
