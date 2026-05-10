@@ -80,20 +80,29 @@ DOMAIN-SUFFIX,openrouter.ai
 DOMIN-SUFFIX,vercel.com
 DOMAIN,ai-gateway.vercel.sh
 
-#> Cloudflare AI Gateway
+# > Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
 
-#> Mistral AI
-DOMAIN,mistral.ai
+# > Ollama
+DOMAIN-SUFFIX,ollama.com
 
-#> Nvidia NIM
+# > Nvidia NIM
 DOMAIN,integrate.api.nvidia.com
 
-#> Cerebras
+# > Mistral AI
+DOMAIN,mistral.ai
+
+# > IBM WatsonX
+DOMAIN-SUFFIX,ml.cloud.ibm.com
+
+# > Cerebras
 DOMAIN-SUFFIX,cerebras.ai
 
-#> Groq
+# > Groq
 DOMAIN-SUFFIX,groq.com
 
 #> SambaNova
 DOMAIN-SUFFIX,sambanova.ai
+
+#> Cohere
+DOMAIN-SUFFIX,cohere.com
