@@ -83,6 +83,9 @@ DOMAIN,ai-gateway.vercel.sh
 # > Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
 
+# > Nous Research
+DOMAIN-SUFFIX,nousresearch.com
+
 # > Ollama
 DOMAIN-SUFFIX,ollama.com
 
