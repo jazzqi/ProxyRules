@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
 #DOMAIN-KEYWORD,leak
+
+DOMAIN,ip.gs
