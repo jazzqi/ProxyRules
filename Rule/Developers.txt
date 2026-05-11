@@ -6,3 +6,7 @@ DOMAIN,sparrow.cloudflare.com
 
 # > Python
 DOMAIN-SUFFIX,pythonhosted.org
+
+
+# > AutoCLI
+DOMAIN-SUFFIX,autocli.ai
