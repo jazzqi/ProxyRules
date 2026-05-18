@@ -77,7 +77,7 @@ DOMAIN-SUFFIX,kilo.ai
 DOMAIN-SUFFIX,openrouter.ai
 
 # > Vercel AI Gateway
-DOMIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.com
 DOMAIN,ai-gateway.vercel.sh
 
 # > Cloudflare AI Gateway
