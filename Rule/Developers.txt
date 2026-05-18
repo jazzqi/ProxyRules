@@ -14,4 +14,3 @@ DOMAIN-SUFFIX,autocli.ai
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vercel-storage.com
 DOMAIN,www.vercel-status.com
-DOMAIN,ai-gateway.vercel.sh
