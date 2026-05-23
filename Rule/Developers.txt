@@ -17,3 +17,6 @@ DOMAIN,www.vercel-status.com
 
 # > GitHub
 DOMAIN,ghcr.io
+
+# > Misc
+DOMAIN,bun.com
