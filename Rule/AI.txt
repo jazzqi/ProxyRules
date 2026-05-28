@@ -118,3 +118,5 @@ DOMAIN-SUFFIX,cohere.com
 #> New API
 DOMAIN,new-api.ai-agents.eu.cc
 
+#> LangRouter
+DOMAIN-SUFFIX,langrouter.ai
