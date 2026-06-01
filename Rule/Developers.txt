@@ -20,4 +20,5 @@ DOMAIN,ghcr.io
 
 # > Misc
 DOMAIN,bun.com
-DOMAIN,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,debian.com
