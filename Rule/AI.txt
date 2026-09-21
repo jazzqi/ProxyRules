@@ -120,3 +120,6 @@ DOMAIN,new-api.ai-agents.eu.cc
 
 #> LangRouter
 DOMAIN-SUFFIX,langrouter.ai
+
+#> Typesafe AI
+DOMAIN-SUFFIX,typesafe.ai
