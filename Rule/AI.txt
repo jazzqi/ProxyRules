@@ -123,3 +123,6 @@ DOMAIN-SUFFIX,langrouter.ai
 
 # > Typesafe AI
 DOMAIN-SUFFIX,typesafe.ai
+
+# > World Labs
+DOMAIN-SUFFIX,worldlabs.ai
