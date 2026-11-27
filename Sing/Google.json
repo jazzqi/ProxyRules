@@ -1,0 +1,47 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "gmail",
+        "google",
+        "youtube",
+        ".blogspot."
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1e100.net",
+        "2mdn.net",
+        "ai.dev",
+        "ai.studio",
+        "apigee.com",
+        "appspot.com",
+        "blogger.com",
+        "deepmind.com",
+        "g.co",
+        "ggpht.com",
+        "gle",
+        "goog",
+        "goo.gl",
+        "gstatic.cn",
+        "gstatic.com",
+        "gvt0.com",
+        "gvt1.com",
+        "gvt2.com",
+        "gvt3.com",
+        "tenor.com",
+        "xn--ngstr-lra8j.com",
+        "youtu.be",
+        "yt.be",
+        "ytimg.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "74.125.0.0/16",
+        "173.194.0.0/16"
+      ]
+    }
+  ]
+}

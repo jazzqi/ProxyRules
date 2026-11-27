@@ -1,4 +1,5 @@
 DOMAIN,analytics.strava.com
+DOMAIN,api.miinsurtech.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,client.amplifi.com
@@ -8,6 +9,7 @@ DOMAIN,easytomessage.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
+DOMAIN,miot-spec.org
 DOMAIN,mum.alibabachengdun.com
 DOMAIN,ntservicepack.microsoft.com
 DOMAIN,origin-a.akamaihd.ne
@@ -364,6 +366,7 @@ DOMAIN-SUFFIX,alibabacloud.com.my
 DOMAIN-SUFFIX,alibabacloud.com.sg
 DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,alibabacorp.com
+DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alibabadoctor.com
 DOMAIN-SUFFIX,alibabafuturehotel.com
@@ -1053,13 +1056,16 @@ DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,ctoutiao.com
 DOMAIN-SUFFIX,ctrip.co.id
 DOMAIN-SUFFIX,ctrip.co.kr
-DOMAIN-SUFFIX,ctrip.co.th
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,ctrip.com.hk
 DOMAIN-SUFFIX,ctrip.my
 DOMAIN-SUFFIX,ctrip.sg
 DOMAIN-SUFFIX,ctripbiz.com
 DOMAIN-SUFFIX,ctripbuy.hk
+DOMAIN-SUFFIX,ctripcorp.com
+DOMAIN-SUFFIX,ctripgslb.com
+DOMAIN-SUFFIX,ctripgslb.net
+DOMAIN-SUFFIX,ctripins.com
 DOMAIN-SUFFIX,ctripteam.com
 DOMAIN-SUFFIX,ctsbw.com
 DOMAIN-SUFFIX,ctsec.com
@@ -1640,6 +1646,7 @@ DOMAIN-SUFFIX,huaweistatic.com
 DOMAIN-SUFFIX,huaweiyun.com
 DOMAIN-SUFFIX,huaxiong.com
 DOMAIN-SUFFIX,huayingsc.com
+DOMAIN-SUFFIX,huazhu.com
 DOMAIN-SUFFIX,huijistatic.com
 DOMAIN-SUFFIX,huijiwiki.com
 DOMAIN-SUFFIX,huize.com
@@ -1987,6 +1994,7 @@ DOMAIN-SUFFIX,jomocdn.net
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,joybuy.com
 DOMAIN-SUFFIX,joybuy.es
+DOMAIN-SUFFIX,joying.com
 DOMAIN-SUFFIX,jpmorganchina.com
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,jpush.io
@@ -2037,6 +2045,7 @@ DOMAIN-SUFFIX,kejet.net
 DOMAIN-SUFFIX,ketangpai.com
 DOMAIN-SUFFIX,kf5.com
 DOMAIN-SUFFIX,kgimg.com
+DOMAIN-SUFFIX,kid17.com
 DOMAIN-SUFFIX,kimiss.com
 DOMAIN-SUFFIX,kingdee.com
 DOMAIN-SUFFIX,kingsoft.com
@@ -2158,6 +2167,7 @@ DOMAIN-SUFFIX,leiting.com
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,lemall.com
 DOMAIN-SUFFIX,lemicp.com
+DOMAIN-SUFFIX,lepudding.com
 DOMAIN-SUFFIX,leturich.org
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcdn.com
@@ -2184,6 +2194,7 @@ DOMAIN-SUFFIX,lingkou.com
 DOMAIN-SUFFIX,linglonglife.com
 DOMAIN-SUFFIX,lingshoujia.com
 DOMAIN-SUFFIX,linkvans.com
+DOMAIN-SUFFIX,lingnanpass.com
 DOMAIN-SUFFIX,linsn.com
 DOMAIN-SUFFIX,linuxidc.com
 DOMAIN-SUFFIX,liqucn.com
@@ -2309,6 +2320,7 @@ DOMAIN-SUFFIX,metatrader4.com
 DOMAIN-SUFFIX,metatrader5.com
 DOMAIN-SUFFIX,mfcteda.com
 DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,mi-fds.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaobolive.com

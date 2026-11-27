@@ -1,0 +1,33 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "aaplimg.com",
+        "apple.co",
+        "apple.com",
+        "apple.com.cn",
+        "apple-cloudkit.com",
+        "apple-livephotoskit.com",
+        "apple-mapkit.com",
+        "applemusic.com",
+        "appstore.com",
+        "apzones.com",
+        "cdn-apple.com",
+        "icloud.com",
+        "icloud.com.cn",
+        "icloud-content.com",
+        "me.com",
+        "mzstatic.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "apple.com.akadns.net",
+        "apple.com.edgekey.net",
+        "apple-support.akadns.net",
+        "icloud.com.akadns.net"
+      ]
+    }
+  ]
+}

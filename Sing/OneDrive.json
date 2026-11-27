@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "1drv.com",
+        "onedrive.com",
+        "storage.live.com"
+      ]
+    },
+    {
+      "domain": [
+        "oneclient.sfx.ms"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "aicoin.com",
+        "backpack.exchange",
+        "bitcointalk.org",
+        "bitfinex.com",
+        "bitflyer.com",
+        "bithumb.com",
+        "bitstamp.net",
+        "coinbase.com",
+        "coingecko.com",
+        "coinmarketcap.com",
+        "crypto.com",
+        "dydx.exchange",
+        "etherscan.io",
+        "gate.io",
+        "gemini.com",
+        "kraken.com",
+        "kucoin.com",
+        "mexc.com",
+        "probit.com",
+        "uniswap.org",
+        "upbit.com",
+        "binance.com",
+        "binance.info",
+        "binance.org",
+        "bnbstatic.com",
+        "bntrace.com",
+        "bsappapi.com",
+        "bscdnweb.com",
+        "yingwangtech.cloud",
+        "bitget.com",
+        "bitget.site",
+        "byabcde.com",
+        "byapps.net",
+        "bybdc6.com",
+        "bybit.biz",
+        "bybit.cloud",
+        "bybit.com",
+        "bybitglobal.com",
+        "bybit-global.com",
+        "byd3c3.com",
+        "ffbbbdc6d3c353211fe2ba39c9f744cd.com",
+        "ffe390afd658c19dcbf707e0597b846d.de",
+        "wsot2022.com",
+        "okx.com",
+        "okx.com.cdn.cloudflare.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "okx-dns"
+      ]
+    }
+  ]
+}
